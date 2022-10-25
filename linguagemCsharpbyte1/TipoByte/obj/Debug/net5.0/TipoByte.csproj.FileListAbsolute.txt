@@ -1,0 +1,16 @@
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\TipoByte\bin\Debug\net5.0\TipoByte.exe
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\TipoByte\bin\Debug\net5.0\TipoByte.deps.json
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\TipoByte\bin\Debug\net5.0\TipoByte.runtimeconfig.json
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\TipoByte\bin\Debug\net5.0\TipoByte.runtimeconfig.dev.json
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\TipoByte\bin\Debug\net5.0\TipoByte.dll
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\TipoByte\bin\Debug\net5.0\ref\TipoByte.dll
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\TipoByte\bin\Debug\net5.0\TipoByte.pdb
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\TipoByte\obj\Debug\net5.0\TipoByte.csproj.AssemblyReference.cache
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\TipoByte\obj\Debug\net5.0\TipoByte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\TipoByte\obj\Debug\net5.0\TipoByte.AssemblyInfoInputs.cache
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\TipoByte\obj\Debug\net5.0\TipoByte.AssemblyInfo.cs
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\TipoByte\obj\Debug\net5.0\TipoByte.csproj.CoreCompileInputs.cache
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\TipoByte\obj\Debug\net5.0\TipoByte.dll
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\TipoByte\obj\Debug\net5.0\ref\TipoByte.dll
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\TipoByte\obj\Debug\net5.0\TipoByte.pdb
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\TipoByte\obj\Debug\net5.0\TipoByte.genruntimeconfig.cache

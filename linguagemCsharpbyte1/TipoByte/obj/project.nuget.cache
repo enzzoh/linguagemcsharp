@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YdXQ1ERZZ6V/BPzhXa6MwJ9QcPEw8FXKFmE39bmMYV/NMLGC1wPF2YCTshX7fJqHdvc+R/px16eaSYam4z6Jzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\android\\Desktop\\Csharp Enzzo\\linguagemcsharp\\linguagemCsharpbyte1\\TipoByte\\TipoByte.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\android\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
