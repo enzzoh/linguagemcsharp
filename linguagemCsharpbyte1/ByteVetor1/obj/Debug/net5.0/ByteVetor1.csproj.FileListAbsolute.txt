@@ -1,0 +1,16 @@
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor1\bin\Debug\net5.0\ByteVetor1.exe
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor1\bin\Debug\net5.0\ByteVetor1.deps.json
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor1\bin\Debug\net5.0\ByteVetor1.runtimeconfig.json
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor1\bin\Debug\net5.0\ByteVetor1.runtimeconfig.dev.json
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor1\bin\Debug\net5.0\ByteVetor1.dll
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor1\bin\Debug\net5.0\ref\ByteVetor1.dll
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor1\bin\Debug\net5.0\ByteVetor1.pdb
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor1\obj\Debug\net5.0\ByteVetor1.csproj.AssemblyReference.cache
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor1\obj\Debug\net5.0\ByteVetor1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor1\obj\Debug\net5.0\ByteVetor1.AssemblyInfoInputs.cache
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor1\obj\Debug\net5.0\ByteVetor1.AssemblyInfo.cs
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor1\obj\Debug\net5.0\ByteVetor1.csproj.CoreCompileInputs.cache
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor1\obj\Debug\net5.0\ByteVetor1.dll
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor1\obj\Debug\net5.0\ref\ByteVetor1.dll
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor1\obj\Debug\net5.0\ByteVetor1.pdb
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor1\obj\Debug\net5.0\ByteVetor1.genruntimeconfig.cache

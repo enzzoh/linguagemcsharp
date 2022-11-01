@@ -1,0 +1,16 @@
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteParImpar\bin\Debug\net5.0\ByteParImpar.exe
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteParImpar\bin\Debug\net5.0\ByteParImpar.deps.json
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteParImpar\bin\Debug\net5.0\ByteParImpar.runtimeconfig.json
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteParImpar\bin\Debug\net5.0\ByteParImpar.runtimeconfig.dev.json
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteParImpar\bin\Debug\net5.0\ByteParImpar.dll
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteParImpar\bin\Debug\net5.0\ref\ByteParImpar.dll
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteParImpar\bin\Debug\net5.0\ByteParImpar.pdb
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteParImpar\obj\Debug\net5.0\ByteParImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteParImpar\obj\Debug\net5.0\ByteParImpar.AssemblyInfoInputs.cache
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteParImpar\obj\Debug\net5.0\ByteParImpar.AssemblyInfo.cs
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteParImpar\obj\Debug\net5.0\ByteParImpar.csproj.CoreCompileInputs.cache
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteParImpar\obj\Debug\net5.0\ByteParImpar.dll
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteParImpar\obj\Debug\net5.0\ref\ByteParImpar.dll
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteParImpar\obj\Debug\net5.0\ByteParImpar.pdb
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteParImpar\obj\Debug\net5.0\ByteParImpar.genruntimeconfig.cache
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteParImpar\obj\Debug\net5.0\ByteParImpar.csproj.AssemblyReference.cache
