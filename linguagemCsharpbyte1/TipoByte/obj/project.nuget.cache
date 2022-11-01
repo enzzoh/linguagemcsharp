@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YdXQ1ERZZ6V/BPzhXa6MwJ9QcPEw8FXKFmE39bmMYV/NMLGC1wPF2YCTshX7fJqHdvc+R/px16eaSYam4z6Jzg==",
+  "dgSpecHash": "f7pTU0C0L+C8h88LGcTAFyAwrUJgK/T/SURzMDjU9VJ7gllGzPCZIH9hbhQfQm3wZz6/ONG/8eWPC8lDWL8/7w==",
   "success": true,
   "projectFilePath": "C:\\Users\\android\\Desktop\\Csharp Enzzo\\linguagemcsharp\\linguagemCsharpbyte1\\TipoByte\\TipoByte.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\android\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\android\\Desktop\\Csharp Enzzo\\linguagemcsharp\\linguagemCsharpbyte1\\ByteVetor\\ByteVetor.csproj": {}
+    "C:\\Users\\android\\Desktop\\Csharp Enzzo\\linguagemcsharp\\linguagemCsharpbyte1\\ByteVetor\\ListaByte.csproj": {}
   },
   "projects": {
-    "C:\\Users\\android\\Desktop\\Csharp Enzzo\\linguagemcsharp\\linguagemCsharpbyte1\\ByteVetor\\ByteVetor.csproj": {
+    "C:\\Users\\android\\Desktop\\Csharp Enzzo\\linguagemcsharp\\linguagemCsharpbyte1\\ByteVetor\\ListaByte.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\android\\Desktop\\Csharp Enzzo\\linguagemcsharp\\linguagemCsharpbyte1\\ByteVetor\\ByteVetor.csproj",
-        "projectName": "ByteVetor",
-        "projectPath": "C:\\Users\\android\\Desktop\\Csharp Enzzo\\linguagemcsharp\\linguagemCsharpbyte1\\ByteVetor\\ByteVetor.csproj",
+        "projectUniqueName": "C:\\Users\\android\\Desktop\\Csharp Enzzo\\linguagemcsharp\\linguagemCsharpbyte1\\ByteVetor\\ListaByte.csproj",
+        "projectName": "ListaByte",
+        "projectPath": "C:\\Users\\android\\Desktop\\Csharp Enzzo\\linguagemcsharp\\linguagemCsharpbyte1\\ByteVetor\\ListaByte.csproj",
         "packagesPath": "C:\\Users\\android\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\android\\Desktop\\Csharp Enzzo\\linguagemcsharp\\linguagemCsharpbyte1\\ByteVetor\\obj\\",
         "projectStyle": "PackageReference",
@@ -50,23 +50,16 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.17, 5.0.17]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

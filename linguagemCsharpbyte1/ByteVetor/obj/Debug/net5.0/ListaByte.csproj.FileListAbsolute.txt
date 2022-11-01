@@ -1,0 +1,16 @@
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor\bin\Debug\net5.0\ListaByte.exe
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor\bin\Debug\net5.0\ListaByte.deps.json
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor\bin\Debug\net5.0\ListaByte.runtimeconfig.json
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor\bin\Debug\net5.0\ListaByte.runtimeconfig.dev.json
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor\bin\Debug\net5.0\ListaByte.dll
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor\bin\Debug\net5.0\ref\ListaByte.dll
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor\bin\Debug\net5.0\ListaByte.pdb
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor\obj\Debug\net5.0\ListaByte.csproj.AssemblyReference.cache
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor\obj\Debug\net5.0\ListaByte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor\obj\Debug\net5.0\ListaByte.AssemblyInfoInputs.cache
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor\obj\Debug\net5.0\ListaByte.AssemblyInfo.cs
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor\obj\Debug\net5.0\ListaByte.csproj.CoreCompileInputs.cache
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor\obj\Debug\net5.0\ListaByte.dll
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor\obj\Debug\net5.0\ref\ListaByte.dll
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor\obj\Debug\net5.0\ListaByte.pdb
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\linguagemCsharpbyte1\ByteVetor\obj\Debug\net5.0\ListaByte.genruntimeconfig.cache
