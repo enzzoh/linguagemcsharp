@@ -75,6 +75,7 @@ namespace ByteParImpar
 
 
 
+            B
 
 
 
@@ -82,6 +83,6 @@ namespace ByteParImpar
         }
 
 
-
+        
     }
 }
