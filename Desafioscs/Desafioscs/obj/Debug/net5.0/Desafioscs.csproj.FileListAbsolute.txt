@@ -1,0 +1,16 @@
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafioscs\bin\Debug\net5.0\Desafioscs.exe
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafioscs\bin\Debug\net5.0\Desafioscs.deps.json
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafioscs\bin\Debug\net5.0\Desafioscs.runtimeconfig.json
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafioscs\bin\Debug\net5.0\Desafioscs.runtimeconfig.dev.json
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafioscs\bin\Debug\net5.0\Desafioscs.dll
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafioscs\bin\Debug\net5.0\ref\Desafioscs.dll
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafioscs\bin\Debug\net5.0\Desafioscs.pdb
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafioscs\obj\Debug\net5.0\Desafioscs.csproj.AssemblyReference.cache
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafioscs\obj\Debug\net5.0\Desafioscs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafioscs\obj\Debug\net5.0\Desafioscs.AssemblyInfoInputs.cache
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafioscs\obj\Debug\net5.0\Desafioscs.AssemblyInfo.cs
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafioscs\obj\Debug\net5.0\Desafioscs.csproj.CoreCompileInputs.cache
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafioscs\obj\Debug\net5.0\Desafioscs.dll
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafioscs\obj\Debug\net5.0\ref\Desafioscs.dll
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafioscs\obj\Debug\net5.0\Desafioscs.pdb
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafioscs\obj\Debug\net5.0\Desafioscs.genruntimeconfig.cache
