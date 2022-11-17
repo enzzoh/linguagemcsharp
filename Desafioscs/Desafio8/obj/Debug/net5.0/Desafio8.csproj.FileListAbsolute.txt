@@ -1,0 +1,15 @@
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafio8\bin\Debug\net5.0\Desafio8.exe
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafio8\bin\Debug\net5.0\Desafio8.deps.json
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafio8\bin\Debug\net5.0\Desafio8.runtimeconfig.json
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafio8\bin\Debug\net5.0\Desafio8.runtimeconfig.dev.json
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafio8\bin\Debug\net5.0\Desafio8.dll
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafio8\bin\Debug\net5.0\ref\Desafio8.dll
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafio8\bin\Debug\net5.0\Desafio8.pdb
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafio8\obj\Debug\net5.0\Desafio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafio8\obj\Debug\net5.0\Desafio8.AssemblyInfoInputs.cache
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafio8\obj\Debug\net5.0\Desafio8.AssemblyInfo.cs
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafio8\obj\Debug\net5.0\Desafio8.csproj.CoreCompileInputs.cache
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafio8\obj\Debug\net5.0\Desafio8.dll
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafio8\obj\Debug\net5.0\ref\Desafio8.dll
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafio8\obj\Debug\net5.0\Desafio8.pdb
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafio8\obj\Debug\net5.0\Desafio8.genruntimeconfig.cache
