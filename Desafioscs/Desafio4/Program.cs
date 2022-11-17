@@ -8,8 +8,8 @@ namespace Desafio4
         {
             for (int contador = 0; contador < 10 ; contador++)
             {
-                int cu = Convert.ToInt32(Console.ReadLine());
-                if (cu % 2 == 0)
+                int a = Convert.ToInt32(Console.ReadLine());
+                if (a % 2 == 0)
                     {
                     Console.WriteLine("par");
                 }

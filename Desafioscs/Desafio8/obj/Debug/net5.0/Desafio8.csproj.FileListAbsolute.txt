@@ -13,3 +13,4 @@ C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafio8\obj\De
 C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafio8\obj\Debug\net5.0\ref\Desafio8.dll
 C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafio8\obj\Debug\net5.0\Desafio8.pdb
 C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafio8\obj\Debug\net5.0\Desafio8.genruntimeconfig.cache
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Desafioscs\Desafio8\obj\Debug\net5.0\Desafio8.csproj.AssemblyReference.cache
