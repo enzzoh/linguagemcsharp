@@ -1,0 +1,16 @@
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Juridico\Juridico\bin\Debug\net5.0\Juridico.exe
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Juridico\Juridico\bin\Debug\net5.0\Juridico.deps.json
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Juridico\Juridico\bin\Debug\net5.0\Juridico.runtimeconfig.json
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Juridico\Juridico\bin\Debug\net5.0\Juridico.runtimeconfig.dev.json
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Juridico\Juridico\bin\Debug\net5.0\Juridico.dll
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Juridico\Juridico\bin\Debug\net5.0\Juridico.pdb
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Juridico\Juridico\obj\Debug\net5.0\Juridico.csproj.AssemblyReference.cache
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Juridico\Juridico\obj\Debug\net5.0\Juridico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Juridico\Juridico\obj\Debug\net5.0\Juridico.AssemblyInfoInputs.cache
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Juridico\Juridico\obj\Debug\net5.0\Juridico.AssemblyInfo.cs
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Juridico\Juridico\obj\Debug\net5.0\Juridico.csproj.CoreCompileInputs.cache
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Juridico\Juridico\obj\Debug\net5.0\Juridico.dll
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Juridico\Juridico\obj\Debug\net5.0\refint\Juridico.dll
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Juridico\Juridico\obj\Debug\net5.0\Juridico.pdb
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Juridico\Juridico\obj\Debug\net5.0\Juridico.genruntimeconfig.cache
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Juridico\Juridico\obj\Debug\net5.0\ref\Juridico.dll

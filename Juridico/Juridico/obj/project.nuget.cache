@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0/jU/5gscc38mrfqjwjQ4G2NXpgDt29wfaLf8TUbhckZTuMt7m79Q5Ryz3guTO0WU8+NJtpcdieUGwVoidWLeQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\android\\Desktop\\Csharp Enzzo\\linguagemcsharp\\Juridico\\Juridico\\Juridico.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\android\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
