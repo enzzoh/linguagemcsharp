@@ -10,7 +10,7 @@ C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Juridico\Juridico\obj\Debu
 C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Juridico\Juridico\obj\Debug\net5.0\Juridico.AssemblyInfo.cs
 C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Juridico\Juridico\obj\Debug\net5.0\Juridico.csproj.CoreCompileInputs.cache
 C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Juridico\Juridico\obj\Debug\net5.0\Juridico.dll
-C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Juridico\Juridico\obj\Debug\net5.0\refint\Juridico.dll
 C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Juridico\Juridico\obj\Debug\net5.0\Juridico.pdb
 C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Juridico\Juridico\obj\Debug\net5.0\Juridico.genruntimeconfig.cache
 C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Juridico\Juridico\obj\Debug\net5.0\ref\Juridico.dll
+C:\Users\android\Desktop\Csharp Enzzo\linguagemcsharp\Juridico\Juridico\bin\Debug\net5.0\ref\Juridico.dll
